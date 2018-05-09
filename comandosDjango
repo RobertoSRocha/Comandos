@@ -1,0 +1,18 @@
+# DJANGO
+  
+  TEM QUE TER O PYTHON INSTALADO E PATH ATIVADO
+  
+  PELO PROMPT
+    criar pasta do projeto
+      mkdir "projeto"
+    abra a pasta criada
+      cd "projeto"
+    digite no terminal
+      python -m venv venv
+    ative a virtual env
+      venv\Scripts\activate
+    instale o djano
+      pip install django
+    inicie o projeto
+      django-admin startproject 
+    
