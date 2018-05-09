@@ -1,2 +1,2 @@
-# comandosDoGit
-Lista de comandos úteis do GIT
+# comandos
+Lista de comandos úteis
