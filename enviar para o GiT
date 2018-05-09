@@ -1,0 +1,6 @@
+ADICIONAR ARQUVIO
+  git add (. para todos ou nome do arquivo)
+ENVIAR AS ALTERAÇÕES PARA O REPOSITÓRIO LOCAL
+  git commit -m "comentários das alterações"
+ENVIAR PARA O REPOSITÓRIO REMOTO
+  git push origin master
